@@ -1,0 +1,24 @@
+[
+   {
+    "id":1,
+    "date_created":"2019-12-25 12:57:58",
+    "date_updated":"2020-12-18 16:18:29",
+    "description":"Scala is a multi-paradigm, general-purpose programming language.",
+    "discount_price":2,
+    "image_path":"",
+    "on_discount":false,
+    "price":20,
+    "title":"The Art of Scala"
+  },
+  {
+    "id":2,
+    "date_created":"2019-03-16 05:15:39",
+    "date_updated":"2020-12-29 08:40:44",
+    "description":"Agile practices discover requirements and develop solutions through collaborative effort.",
+    "discount_price":3,
+    "image_path":"",
+    "on_discount":true,
+    "price":30,
+    "title":"The Joy of Agile"
+  }
+]
